@@ -1,0 +1,64 @@
+/* social media buttons */
+
+.fa {
+    font-size: 20px;
+    width: 30px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #4b67a1;
+    color: white;
+}
+
+.fa-twitter {
+    background: #00b0ed;
+    color: white;
+}
+
+.fa-google {
+    background: #df4a32;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #0976b4;
+    color: white;
+}
+
+.fa-youtube {
+    background: #e52d27;
+    color: white;
+}
+
+.fa-instagram {
+    background: #c32aa3;
+    color: white;
+}
+
+.fa-rss {
+    background: #f7941e;
+    color: white;
+}
+
+.fa-map-marker{
+    padding: 0px;
+}
+
+.fa-phone{
+    padding: 0px;
+}
+
+.fa-envelope{
+    padding: 0px;
+}
+
+/* end of social media buttons */
